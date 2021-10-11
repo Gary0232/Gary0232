@@ -9,6 +9,7 @@ Really want to find an internship!!!!
 一直亏钱的股票交易员/半吊子咖啡师/可口可乐yyds/一点都不感性的死直男
 
 - 🌱 Python/R/Java
-- 📫 Weibo: 韭韭韭韭韭 Instagram:dexter2rrr
+- 📫 Instagram:dexter2rrr
+- ![3BA6008B](https://user-images.githubusercontent.com/37647749/136748913-af09fbf9-bfd1-4741-a983-83f5ad4ee4b1.png) 蔚来汽车实习ing...
 
 ![](https://github-readme-stats.vercel.app/api?username=Gary0232)
