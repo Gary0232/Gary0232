@@ -4,7 +4,7 @@ I'm Hanzhi Guo, from the University of Sydney(USYD), major in Computer Science a
 
 悉尼大学计算机科学/数据科学 
 
-一直亏钱的股票交易员/半吊子咖啡师/可口可乐yyds/桌游、麻将、扑克牌、德州
+
 
 - 🌱 Python/Java
 - 📫 Instagram:dexter2rrr 
